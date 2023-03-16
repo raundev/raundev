@@ -1,18 +1,18 @@
 ### Hi there 👋
 
 
-**raundev/raundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### (●'◡'●) Raun
 
-Here are some ideas to get you started:
+- 🔭 프로그래밍 세계를 탐구하는 자.
+- 🌱 무럭무럭 크고있는 새싹.
+- 👯 누구와 협력해도 어울릴수 있는.
+- 🤔 고민에 고민을 거듭하는.
+- 💬 능동적인 질문을 생각하는.
+- 📫 언제나 피드백에 대해 긍적적으로 열려있는.
+</br>
+<img src="https://user-images.githubusercontent.com/16470456/225682088-724828bc-be36-4d62-9096-9850247d170a.png"></img>
 
-- 🔭 저는 지금 자바 세계를 탐구하고 있습니다.
-- 🌱 아직은 초보 개발자 입니다.
-- 👯 I’m looking to collaborate on ...
-- 🤔 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<hr/>
 
 ### 🔨 Skills
 
@@ -23,12 +23,21 @@ Here are some ideas to get you started:
 ![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F)
 ![Spring Data JPA](https://img.shields.io/badge/-Spring%20Data%20JPA-6DB33F?)
 
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)
+
+![BootSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+<!--![BootSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)-->
+
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://camo.githubusercontent.com/f93838dd6431bea23c55287cfbd0587dd6b196e55c0b02817000cb3eab315a17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656469732d2532334443333832442e7376673f267374796c653d666c61742d737175617265266c6f676f3d7265646973266c6f676f436f6c6f723d7768697465)
+![PostgreSql](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
+![R](https://img.shields.io/badge/R-276DC3?style=logo=r&logoColor=white)
 
-![Raun's GitHub stats](https://github-readme-stats.vercel.app/api?username=raundev&count_private=true)
+<hr/>
 
+![Raun's GitHub stats](https://github-readme-stats.vercel.app/api?username=raundev&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=vue)
+
+<hr/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraundev%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
